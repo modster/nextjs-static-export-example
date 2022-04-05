@@ -1,6 +1,6 @@
 const nextConfig = {
   reactStrictMode: true,
-  basePath: '/docs',
+  basePath: '/nextjs-static-export-example',
 
 }
 module.exports = nextConfig
