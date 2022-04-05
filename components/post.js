@@ -5,7 +5,7 @@ export default function Post({ title, body, id }) {
     <article>
       <h2>{title}</h2>
       <p>{body}</p>
-      <Link href={`/nextjs-static-export-example/post/${id}`}>
+      <Link href={`/nextjs-static-export-template/post/${id}`}>
         <a>Read more...</a>
       </Link>
     </article>

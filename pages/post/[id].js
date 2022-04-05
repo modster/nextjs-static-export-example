@@ -40,7 +40,7 @@ export default function Post({ title, body }) {
 
       <p>{body}</p>
 
-      <Link href="/nextjs-static-export-example/">
+      <Link href="/nextjs-static-export-template/">
         <a>Go back to home</a>
       </Link>
     </main>
